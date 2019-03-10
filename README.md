@@ -1,2 +1,2 @@
-# hellowhale
+# simplecicd
 Simple Docker Demo App
